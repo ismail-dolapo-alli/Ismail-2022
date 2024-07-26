@@ -1,0 +1,10 @@
+# Node.js modules
+node_modules/
+
+# Private and public keys
+private.pem
+public.pem
+
+
+README.md
+package-lock.json
